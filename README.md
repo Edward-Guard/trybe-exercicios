@@ -1,2 +1,3 @@
 # trybe-exercicios
-Repositório que será usado para salvar os exercicios do curso trybe
+
+Este repositório serve para guardar os exercícios que fiz na trybe durante mo meu curso.
